@@ -106,7 +106,3 @@ The license for this repository will be added upon public release.
 For questions or collaboration inquiries, please contact [Anirud R](anirud25@gmail.com) after the paper is published.
 
 ---
-
-## Acknowledgements
-
-This work was conducted as part of doctoral research focused on trustworthy and reliable language model evaluation.
