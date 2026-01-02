@@ -1,4 +1,4 @@
-# Low-Resource Hallucination Detection in Large Language Models
+# Low-Resource Hallucination Detection in LLMs on Multi-Task Datasets via Iterative Pseudo-Labeling Using Confidence Thresholding and Active Learning
 
 This repository contains the code and supporting materials for the research work  
 **“Low-Resource Hallucination Detection in LLMs on Multi-Task Datasets via Iterative Pseudo-Labeling Using Confidence Thresholding and Active Learning.”**
