@@ -66,7 +66,7 @@ These stages are applied iteratively to progressively expand the labelled traini
 
 The overall workflow of the proposed framework is shown below.
 
-![Methodology framework](<img width="1418" height="945" alt="image" src="https://github.com/user-attachments/assets/55b5fcbb-c9e1-4fa6-80cf-b8cf60eb4454" />)
+![Methodology framework](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs44163-026-02106-1/MediaObjects/44163_2026_2106_Fig1_HTML.png?as=webp)
 
 **Figure 1.** Overview of the proposed iterative semi-supervised framework for low-resource hallucination detection.
 
@@ -108,7 +108,7 @@ The notebooks in the `Code` directory provide the analyses and experiments descr
 
 To use the notebooks, download or clone the repository, install the required Python dependencies, and run the notebooks in a Jupyter environment or Google Colab.
 
-The SHROOM dataset should be obtained separately from the official source described in the **Data** section.
+The SHROOM dataset should be obtained separately from the official source described in the **Data** section. 
 
 ---
 
@@ -118,6 +118,8 @@ If you use this work in your research, please cite:
 Ramani, A., Venugopalan, M. Low-resource hallucination detection in LLMs on multi-task datasets via iterative pseudo-labeling using confidence thresholding and active learning. *Discover Artificial Intelligence* 6, 1011 (2026). https://doi.org/10.1007/s44163-026-02106-1
 
 **Paper:** [Springer Nature](https://link.springer.com/article/10.1007/s44163-026-02106-1)
+
+Copyright (c) 2026 Anirud Ramani and Manju Venugopalan, Amrita Vishwa Vidyapeetham.
 
 ```bibtex
 @article{LowResourceHallucination,
@@ -130,7 +132,7 @@ Ramani, A., Venugopalan, M. Low-resource hallucination detection in LLMs on mult
   doi     = {10.1007/s44163-026-02106-1}
 }
 ```
-Copyright (c) 2026 Anirud Ramani and Manju Venugopalan, Amrita Vishwa Vidyapeetham.
+
 ---
 
 ## Contact
