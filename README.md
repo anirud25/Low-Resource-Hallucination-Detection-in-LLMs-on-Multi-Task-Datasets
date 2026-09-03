@@ -66,7 +66,8 @@ These stages are applied iteratively to progressively expand the labelled traini
 
 The overall workflow of the proposed framework is shown below.
 
-![Methodology framework](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs44163-026-02106-1/MediaObjects/44163_2026_2106_Fig1_HTML.png)
+![Methodology framework](<img width="1418" height="945" alt="44163_2026_2106_Fig1_HTML" src="https://github.com/user-attachments/assets/46b87ea2-e16f-47dd-a854-d21938a0a5ff"/>
+)
 
 **Figure 1.** Overview of the proposed iterative semi-supervised framework for low-resource hallucination detection.
 
