@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated research article."
+title: "Low-Resource Hallucination Detection in LLMs on Multi-Task Datasets via Iterative Pseudo-Labeling Using Confidence Thresholding and Active Learning"
+type: software
+authors:
+  - family-names: "Ramani"
+    given-names: "Anirud"
+  - family-names: "Venugopalan"
+    given-names: "Manju"
+version: "1.0.0"
+date-released: "2026-09-01"
+repository-code: "https://github.com/anirud25/Low-Resource-Hallucination-Detection-in-LLMs-on-Multi-Task-Datasets"
+
+preferred-citation:
+  type: article
+  title: "Low-resource hallucination detection in LLMs on multi-task datasets via iterative pseudo-labeling using confidence thresholding and active learning"
+  authors:
+    - family-names: "Ramani"
+      given-names: "Anirud"
+    - family-names: "Venugopalan"
+      given-names: "Manju"
+  journal: "Discover Artificial Intelligence"
+  volume: 6
+  start: 1011
+  year: 2026
+  doi: "10.1007/s44163-026-02106-1"
