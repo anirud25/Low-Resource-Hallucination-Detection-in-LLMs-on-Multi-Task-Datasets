@@ -66,7 +66,7 @@ These stages are applied iteratively to progressively expand the labelled traini
 
 The overall workflow of the proposed framework is shown below.
 
-![Methodology framework](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs44163-026-02106-1/MediaObjects/44163_2026_2106_Fig1_HTML.png?as=webp)
+![Methodology framework](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs44163-026-02106-1/MediaObjects/44163_2026_2106_Fig1_HTML.png)
 
 **Figure 1.** Overview of the proposed iterative semi-supervised framework for low-resource hallucination detection.
 
@@ -122,7 +122,7 @@ Ramani, A., Venugopalan, M. Low-resource hallucination detection in LLMs on mult
 Copyright (c) 2026 Anirud Ramani and Manju Venugopalan, Amrita Vishwa Vidyapeetham.
 
 ```bibtex
-@article{LowResourceHallucination,
+@article{Ramani2026,
   author  = {Ramani, Anirud and Venugopalan, Manju},
   title   = {Low-resource hallucination detection in LLMs on multi-task datasets via iterative pseudo-labeling using confidence thresholding and active learning},
   journal = {Discover Artificial Intelligence},
