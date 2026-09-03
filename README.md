@@ -88,6 +88,7 @@ The notebooks cover the exploratory data analysis, model architecture evaluation
 
 ```text
 ├── README.md
+├── CITATION.cff
 └── Code/
     ├── Additional_Analysis_and_Experiments.ipynb
     ├── Exploratory_Data_Analysis.ipynb
@@ -115,6 +116,7 @@ The SHROOM dataset should be obtained separately from the official source descri
 ## Citation
 
 If you use this work in your research, please cite:
+
 Ramani, A., Venugopalan, M. Low-resource hallucination detection in LLMs on multi-task datasets via iterative pseudo-labeling using confidence thresholding and active learning. *Discover Artificial Intelligence* 6, 1011 (2026). https://doi.org/10.1007/s44163-026-02106-1
 
 **Paper:** [Springer Nature](https://link.springer.com/article/10.1007/s44163-026-02106-1)
